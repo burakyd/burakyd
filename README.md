@@ -3,7 +3,7 @@
 - I've been dealing with Python for 4 years, as intermediate.
 - I've made a lot of practice, projects including
   a text-based airport game(about 1000lines of code)
-  and a visual made with Pygame(about 800lines of code),
+  and a visual game with Pygame(about 800lines of code),
   which I am planning to add Reinforcement Learning/Q Learning mechanics.
 - 🌱 I’m currently learning Reinforcement Learning algorithms
   to create my own and implement that in my simple game
