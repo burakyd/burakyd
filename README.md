@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Burak, 18 years old Computer Engineering Student.
+- 👋 Hi, I’m Burak, 20 years old Computer Engineering Student.
 - 👀 I’m interested in Machine Learning algorithms
-- I've been dealing with Python for 4 years, as intermediate.
+- I've been dealing with Python for 6 years, as intermediate.
 - I've made a lot of practice, projects including
   a text-based airport game(about 900lines of code)
   and a visual game with Pygame(about 1000lines of code),
